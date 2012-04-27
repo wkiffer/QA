@@ -1,0 +1,1719 @@
+What was the name of the first Russian astronaut to do a spacewalk?
+PERSON
+</que>
+Where is Belize located?
+LOCATION
+</que>
+What is the population of the Bahamas?
+NUMBER
+</que>
+How far away is the moon?
+NUMBER
+</que>
+What state has the most Indians?
+LOCATION
+</que>
+Who invented the paper clip?
+PERSON
+</que>
+How many dogs pull a sled in the Iditarod?
+NUMBER
+</que>
+Where did bocci originate?
+LOCATION
+</que>
+Who invented the electric guitar?
+PERSON
+</que>
+Name a flying mammal.
+ANIMAL
+</que>
+How many hexagons are on a soccer ball?
+NUMBER
+</que>
+Who is the leader of India?
+PERSON
+</que>
+What is the population of Japan?
+NUMBER
+</que>
+Who is the prime minister of Australia?
+PERSON
+</que>
+Who killed Martin Luther King?
+PERSON
+</que>
+Where's Montenegro?
+LOCATION
+</que>
+Who is the Greek God of the Sea?
+PERSON
+</que>
+Where is the Danube?
+LOCATION
+</que>
+Who is the fastest swimmer in the world?
+PERSON
+</que>
+When did the vesuvius last erupt?
+DATE
+</que>
+Who was the president of Vichy France?
+PERSON
+</que>
+Who invented television?
+PERSON
+</que>
+Who made the first airplane?
+PERSON
+</que>
+Who made the first airplane that could fly?
+PERSON
+</que>
+How many astronauts have been on the moon?
+NUMBER
+</que>
+Name one of the major gods of Hinduism?
+PERSON
+</que>
+How many years ago did the ship Titanic sink?
+NUMBER
+</que>
+Where did the ukulele originate?
+LOCATION
+</que>
+Who invented baseball?
+PERSON
+</que>
+Where can you find the Venus flytrap?
+LOCATION
+</que>
+Who won the Battle of Gettysburg?
+FACT
+</que>
+What is the largest snake in the world?
+ANIMAL
+</que>
+Where is the Valley of the Kings?
+LOCATION
+</que>
+Where did the Maya people live?
+LOCATION
+</que>
+How many people live in Chile?
+NUMBER
+</que>
+When was the first flush toilet invented?
+DATE
+</que>
+What is California's state bird?
+ANIMAL
+</que>
+Who thought of teaching people to tie their shoe laces?
+PERSON
+</que>
+Who is buried in the great pyramid of Giza?
+PERSON
+</que>
+What are birds descendents of?
+ANIMAL
+</que>
+What does NAFTA stand for?
+FACT
+</que>
+What company sells the most greeting cards?
+ORGANIZATION
+</que>
+When was Babe Ruth born?
+DATE
+</que>
+Who wrote the Farmer's Almanac?
+PERSON
+</que>
+Where was Pythagoras born?
+LOCATION
+</que>
+Who killed Caesar?
+PERSON
+</que>
+Who invented basketball?
+PERSON
+</que>
+Who was the architect of Central Park?
+PERSON
+</que>
+Who is Barbara Jordan?
+PERSON
+</que>
+About how many soldiers died in World War II?
+NUMBER
+</que>
+How hot is the core of the earth?
+NUMBER
+</que>
+When was the Brandenburg Gate in Berlin built?
+DATE
+</que>
+Who invented the game Scrabble?
+PERSON
+</que>
+How big is our galaxy in diameter?
+NUMBER
+</que>
+Who found Hawaii?
+PERSON
+</que>
+Where is the Kalahari desert?
+LOCATION
+</que>
+How big is Australia?
+NUMBER
+</que>
+Where was John Adams born?
+LOCATION
+</que>
+When is Boxing Day?
+DATE
+</que>
+Name a tiger that is extinct?
+ANIMAL
+</que>
+When was Microsoft established?
+DATE
+</que>
+How many films did Ingmar Bergman make?
+NUMBER
+</que>
+What is Alice Cooper's real name?
+PERSON
+</que>
+Who is the richest person in the world?
+PERSON
+</que>
+What is the longest word in the English language?
+FACT
+</que>
+What is the name of the longest ruling dynasty of Japan?
+ORGANIZATION
+</que>
+What is Francis Scott Key best known for?
+FACT
+</que>
+How many continents are there?
+NUMBER
+</que>
+What is California's capital?
+LOCATION
+</que>
+Who was Whitcomb Judson?
+FACT
+</que>
+Who won the Superbowl in 1982?
+ORGANIZATION
+</que>
+Where is Romania located?
+LOCATION
+</que>
+What is molybdenum?
+FACT
+</que>
+How much folic acid should an expectant mother get daily?
+FACT
+</que>
+Where is Ayer's rock?
+LOCATION
+</que>
+Where do lobsters like to live?
+FACT
+</que>
+Where does dew come from?
+FACT
+</que>
+Where is the bridge over the river Kwai?
+LOCATION
+</que>
+When was the slinky invented?
+DATE
+</que>
+Who is the richest woman in the world?
+PERSON
+</que>
+What ocean did the Titanic sink in?
+LOCATION
+</que>
+How hot does the inside of an active volcano get?
+FACT
+</que>
+Where is the Orinoco?
+LOCATION
+</que>
+How many types of lemurs are there?
+NUMBER
+</que>
+Who is Langston Hughes?
+FACT
+</que>
+How much in miles is a ten K run?
+NUMBER
+</que>
+What is the name of the second space shuttle?
+FACT
+</que>
+What was the ball game of ancient Mayans called?
+FACT
+</que>
+Where is Guam?
+LOCATION
+</que>
+What did brontosauruses eat?
+FACT
+</que>
+How wide is the Atlantic Ocean?
+NUMBER
+</que>
+Who was the first coach of the Cleveland Browns?
+PERSON
+</que>
+When did the Carolingian period begin?
+DATE
+</que>
+What is the capital of Haiti?
+LOCATION
+</que>
+Where do hyenas live?
+LOCATION
+</que>
+What is the largest variety of cactus?
+FACT
+</que>
+Where is Trinidad?
+LOCATION
+</que>
+What type of bridge is the Golden Gate Bridge?
+FACT
+</que>
+When did Geraldine Ferraro run for vice president?
+LOCATION
+</que>
+What is the most expensive car in the world?
+FACT
+</que>
+What was the death toll at the eruption of Mount Pinatubo?
+NUMBER
+</que>
+What is the population of Mozambique?
+NUMBER
+</que>
+Who is Anubis?
+PERSON
+</que>
+What is the nickname of Pennsylvania?
+FACT
+</que>
+Who invented the game bowling?
+PERSON
+</que>
+Who was the 33rd president of the United States?
+PERSON
+</que>
+Who was the first king of England?
+PERSON
+</que>
+What was the man's name who was killed in a duel with Aaron Burr?
+PERSON
+</que>
+Who is Charles Lindbergh?
+PERSON
+</que>
+What is anorexia nervosa?
+FACT
+</que>
+When was the Triangle Shirtwaist fire?
+DATE
+</que>
+Who was the first U.S. president ever to resign?
+PERSON
+</que>
+Where is Melbourne?
+LOCATION
+</que>
+What's the average salary of a professional baseball player?
+NUMBER
+</que>
+What state in the United States covers the largest area?
+LOCATION
+</que>
+Where are zebras most likely found?
+LOCATION
+</que>
+What's the longest river in the world?
+FACT
+</que>
+How many home runs did Babe Ruth hit in his lifetime?
+NUMBER
+</que>
+How many Superbowls have the 49ers won?
+NUMBER
+</que>
+Who invented paper?
+PERSON
+</que>
+When was the San Francisco fire?
+DATE
+</que>
+What is Martin Luther King Jr.'s real birthday?
+DATE
+</que>
+When was Hurricane Hugo?
+DATE
+</que>
+What is the most common cancer?
+FACT
+</que>
+Who invented silly putty?
+PERSON
+</que>
+Where are there aborigines?
+LOCATION
+</que>
+Who painted Olympia?
+PERSON
+</que>
+How many Stradivarius violins were ever made?
+NUMBER
+</que>
+How tall is the giraffe?
+NUMBER
+</que>
+What is the exchange rate between England and the U.S.?
+NUMBER
+</que>
+Who is William Wordsworth?
+PERSON
+</que>
+Who invented the radio?
+PERSON
+</que>
+What is the population of Kansas?
+NUMBER
+</que>
+How old is the sun?
+NUMBER
+</que>
+How long would it take to get from Earth to Mars?
+NUMBER
+</que>
+When did Muhammad live?
+LOCATION
+</que>
+Who is the prophet of the religion of Islam?
+PERSON
+</que>
+Who was considered to be the father of psychology?
+PERSON
+</que>
+What is the population of Mexico?
+NUMBER
+</que>
+What is the wingspan of a condor?
+NUMBER
+</que>
+What does the abbreviation OAS stand for?
+FACT
+</que>
+What were the names of the three ships used by Columbus?
+FACT
+</que>
+Where did the Inuits live?
+LOCATION
+</que>
+How many people lived in Nebraska in the mid 1980s?
+NUMBER
+</que>
+What is the capital of Burkina Faso?
+LOCATION
+</que>
+What is the federal minimum wage?
+NUMBER
+</que>
+Who assassinated President McKinley?
+PERSON
+</que>
+What is the life expectancy of an elephant?
+NUMBER
+</que>
+Who was the 21st U.S. President?
+PERSON
+</que>
+What is the size of Argentina?
+NUMBER
+</que>
+When was the first railroad from the east coast to the west coast completed?
+DATE
+</que>
+Where is Tornado Alley?
+LOCATION
+</que>
+What does laser stand for?
+FACT
+</que>
+How large is Missouri's population?
+NUMBER
+</que>
+Who is Zebulon Pike?
+FACT
+</que>
+Who was Quetzalcoatl?
+FACT
+</que>
+What is porphyria?
+FACT
+</que>
+What is saltpeter?
+FACT
+</que>
+Who is Desmond Tutu?
+FACT
+</que>
+What is the best-selling book of all time?
+FACT
+</que>
+Who built the first pyramid?
+PERSON
+</que>
+Who is the emperor of Japan?
+PERSON
+</que>
+What is the habitat of the chickadee?
+FACT
+</que>
+What year did Montana become a state?
+DATE
+</que>
+How much money does the Sultan of Brunei have?
+NUMBER
+</que>
+How many people die from snakebite poisoning in the U.S. per year?
+NUMBER
+</que>
+When was the De Beers company founded?
+DATE
+</que>
+Who is Peter Weir?
+FACT
+</que>
+The major league baseball team in Pittsburgh is called what?
+ORGANIZATION
+</que>
+Where is the location of the Orange Bowl?
+LOCATION
+</que>
+Who was Jane Goodall?
+FACT
+</que>
+How much does one ton of cement cost?
+NUMBER
+</que>
+Who wrote "The Scarlet Letter"?
+PERSON
+</que>
+Who was Lacan?
+FACT
+</que>
+What is Dr. Ruth's last name?
+FACT
+</que>
+What city's airport is named Logan International?
+LOCATION
+</que>
+What actress starred in "The Lion in Winter"?
+PERSON
+</que>
+To get the most caffeine, what soda should I drink?
+FACT
+</que>
+Where is your corpus callosum?
+FACT
+</que>
+What was the nationality of Jackson Pollock?
+FACT
+</que>
+What is the telephone number for the University of Kentucky?
+NUMBER
+</que>
+What do penguins eat?
+FACT
+</que>
+The numbering system we use today was introduced to the western world by what culture?
+FACT
+</que>
+When is Dick Clark's birthday?
+DATE
+</que>
+What U.S. Government agency registers trademarks?
+ORGANIZATION
+</que>
+What store does Martha Stewart advertise for?
+ORGANIZATION
+</que>
+CNN began broadcasting in what year?
+DATE
+</que>
+When did Mount St. Helen last have a significant eruption?
+DATE
+</que>
+What soft drink is most heavily caffeinated?
+FACT
+</que>
+What newspaper serves Salt Lake City?
+ORGANIZATION
+</que>
+When was the movie, Caligula, made?
+DATE
+</que>
+What is the name of the Islamic counterpart to the Red Cross?
+ORGANIZATION
+</que>
+CNN's first broadcast occurred on what date?
+DATE
+</que>
+What year was the first automobile manufactured?
+DATE
+</que>
+What is the recommended daily requirement for folic acid for pregnant women?
+FACT
+</que>
+Where is the Mayo Clinic?
+LOCATION
+</que>
+Where did Hillary Clinton graduate college?
+ORGANIZATION
+</que>
+Who was Picasso?
+FACT
+</que>
+When did Aldous Huxley write, "Brave New World"?
+DATE
+</que>
+Name a novel written by John Steinbeck.
+FACT
+</que>
+What is the equivalent of the Red Cross in the Middle East?
+ORGANIZATION
+</que>
+What President became Chief Justice after his presidency?
+PERSON
+</que>
+What is typhoid fever?
+FACT
+</que>
+How many zip codes are there in the U.S.?
+NUMBER
+</que>
+When did Amtrak begin operations?
+DATE
+</que>
+Who is Henry Butler?
+FACT
+</que>
+What nationality was Jackson Pollock?
+FACT
+</que>
+When was the first Wall Street Journal published?
+DATE
+</que>
+Who is the president of Bolivia?
+PERSON
+</que>
+Name a Gaelic language.
+FACT
+</que>
+What's the population of Biloxi, Mississippi?
+NUMBER
+</que>
+How fast can a Corvette go?
+NUMBER
+</que>
+Who is the owner of CNN?
+PERSON
+</que>
+Where are diamonds mined?
+LOCATION
+</que>
+What continent is Bolivia on?
+LOCATION
+</que>
+What does the acronym CPR mean?
+FACT
+</que>
+What's the name of the star of the cooking show, "Galloping Gourmet"?
+PERSON
+</que>
+What does CPR stand for?
+FACT
+</que>
+What did Vasco da Gama discover?
+FACT
+</que>
+Where is Windsor Castle?
+LOCATION
+</que>
+What is the gestation period for humans?
+FACT
+</que>
+Who created "The Muppets"?
+PERSON
+</que>
+What was the cause of Bob Marley's death?
+FACT
+</que>
+What are pomegranates?
+FACT
+</que>
+Where is Rider College located?
+LOCATION
+</que>
+When did the royal wedding of Prince Andrew and Fergie take place?
+DATE
+</que>
+What language is mostly spoken in Brazil?
+FACT
+</que>
+What English word has the most letters?
+FACT
+</que>
+What was the name of the Titanic's captain?
+PERSON
+</que>
+How did Bob Marley die?
+FACT
+</que>
+How many miles is it from London, England to Plymouth, England?
+NUMBER
+</que>
+What is Dick Clark's birthday?
+DATE
+</que>
+Where is Procter & Gamble based in the U.S.?
+LOCATION
+</que>
+Which type of soda has the greatest amount of caffeine?
+FACT
+</que>
+Rotary engines used to be made by whom?
+ORGANIZATION
+</que>
+What is the name of Joan Jett's band?
+FACT
+</que>
+What is the longest English word?
+FACT
+</que>
+What animal do buffalo wings come from?
+ANIMAL
+</que>
+Who is Terrence Malick?
+FACT
+</que>
+What is pandoro?
+FACT
+</que>
+Name the university of which Woodrow Wilson was president.
+ORGANIZATION
+</que>
+What province is Edmonton located in?
+LOCATION
+</que>
+What is the nickname of the state of Mississippi?
+FACT
+</que>
+Who was the king who was forced to agree to the Magna Carta?
+PERSON
+</que>
+What ethnic group introduced the idea of potlatch?
+ORGANIZATION
+</que>
+What is the name of the inventor of silly putty?
+PERSON
+</que>
+How long do hermit crabs live?
+NUMBER
+</que>
+What is the medical condition of hypertension?
+FACT
+</que>
+What's the name of the actress who starred in the movie, "Silence of the Lambs"?
+PERSON
+</que>
+What is Nicholas Cage's profession?
+FACT
+</que>
+Who was the first woman in space?
+PERSON
+</que>
+When did Mount St. Helens last erupt?
+DATE
+</que>
+What is the Jewish alphabet called?
+FACT
+</que>
+Name one of the Seven Wonders of the Ancient World.
+FACT
+</que>
+In what area of the world was the Six Day War fought?
+LOCATION
+</que>
+Jackson Pollock was a native of what country?
+LOCATION
+</que>
+What city is the Kentucky Horse Park near?
+LOCATION
+</que>
+How many counties are in Indiana?
+NUMBER
+</que>
+Who manufactures synthroid?
+ORGANIZATION
+</que>
+What party was Winston Churchill a member of?
+ORGANIZATION
+</que>
+When was John D. Rockefeller born?
+DATE
+</que>
+What do you call a group of geese?
+FACT
+</que>
+Where is Rider College?
+LOCATION
+</que>
+Where did Bill Gates go to college?
+DATE
+</que>
+Who was Charles Lindbergh's wife?
+PERSON
+</que>
+The Jewish alphabet is known as what?
+FACT
+</que>
+When did the Dow first reach 2000?
+DATE
+</que>
+The Orange Bowl is in what city?
+LOCATION
+</que>
+What university was Woodrow Wilson President of?
+ORGANIZATION
+</que>
+What film or films has Jude Law appeared in?
+FACT
+</que>
+What was the distinguishing mark on the "Little Rascals" dog?
+FACT
+</que>
+How much calcium should an adult female have daily?
+FACT
+</que>
+What kind of a sports team is the Wisconsin Badgers?
+FACT
+</que>
+What did Delilah do to Samson's hair?
+FACT
+</que>
+What's the farthest planet from the sun?
+FACT
+</que>
+The Kentucky Horse Park is close to which American city?
+LOCATION
+</que>
+What format was VHS's main competition?
+FACT
+</que>
+What is tyvek?
+FACT
+</que>
+What time of year is air travel the heaviest?
+DATE
+</que>
+Who portrayed "the man without a face" in the movie of the same name?
+PERSON
+</que>
+Who is the monarch of the United Kingdom?
+PERSON
+</que>
+Where is Ocho Rios?
+LOCATION
+</que>
+Colin Powell is best known for what achievement?
+FACT
+</que>
+What was the name of the sitcom that Alyssa Milano starred in with Tony Danza?
+FACT
+</que>
+Where is one's corpus callosum found?
+FACT
+</que>
+Colin Powell is famous for what?
+FACT
+</que>
+Ray Charles plays which instrument?
+FACT
+</que>
+When did the Chernobyl nuclear accident occur?
+DATE
+</que>
+What is the population of the United States?
+NUMBER
+</que>
+What's the abbreviation for limited partnership?
+FACT
+</que>
+What caused the Lynmouth floods?
+FACT
+</que>
+What is the chemical symbol for nitrogen?
+FACT
+</que>
+Define thalassemia.
+FACT
+</que>
+What was Darth Vader's son named?
+PERSON
+</que>
+Who invented "The Muppets"?
+PERSON
+</que>
+What is the abbreviation for Original Equipment Manufacturer?
+FACT
+</que>
+Who manufacturers Magic Chef applicances?
+ORGANIZATION
+</que>
+Where is Glasgow?
+LOCATION
+</que>
+In what book can I find the story of Aladdin?
+FACT
+</que>
+What time of year has the most air travel?
+DATE
+</que>
+What is a stratocaster?
+FACT
+</que>
+What is the purpose of a car bra?
+FACT
+</que>
+Rotary engines were manufactured by which company?
+ORGANIZATION
+</que>
+What is a nanometer?
+FACT
+</que>
+What city houses the U.S. headquarters of Procter and Gamble?
+LOCATION
+</que>
+What is the name of the Michelangelo painting that shows two hands with fingers touching?
+FACT
+</que>
+What city is the Orange Bowl in?
+LOCATION
+</que>
+What is witch hazel?
+FACT
+</que>
+What is Giorgio Vasari famous for?
+FACT
+</que>
+What does Nicholas Cage do for a living?
+FACT
+</que>
+A normal human pregnancy lasts how many months?
+NUMBER
+</que>
+What are the Poconos?
+FACT
+</que>
+What is D.B. Cooper known for?
+FACT
+</que>
+Who was Monet?
+FACT
+</que>
+What is sake?
+FACT
+</que>
+What does caliente translate to in English?
+FACT
+</que>
+Where did guinea pigs originate?
+LOCATION
+</que>
+Where is Burma?
+LOCATION
+</que>
+Who wrote "An Ideal Husband"?
+PERSON
+</que>
+Who won the rugby world cup in 1987?
+ORGANIZATION
+</que>
+Ray Charles is best known for playing what instrument?
+FACT
+</que>
+Boxing Day is celebrated on what date?
+DATE
+</que>
+Name a Salt Lake City newspaper.
+ORGANIZATION
+</que>
+What type of hunting are retrievers used for?
+FACT
+</que>
+Who was Samuel Johnsons's friend and biographer?
+PERSON
+</que>
+What is Dick Clark's date of birth?
+DATE
+</que>
+What is the name given to a group of geese?
+FACT
+</que>
+A corgi is a kind of what?
+FACT
+</que>
+When was "the Great Depression"?
+DATE
+</que>
+What card company sells Christmas ornaments?
+ORGANIZATION
+</que>
+Who was the inventor of silly putty?
+PERSON
+</que>
+Who reports the weather on the "Good Morning America" television show?
+PERSON
+</que>
+What is the name given to the Islamic counterpart of the Red Cross?
+ORGANIZATION
+</que>
+What is ouzo?
+FACT
+</que>
+What do manatees eat?
+FACT
+</que>
+How many casinos are in Atlantic City, NJ?
+NUMBER
+</que>
+What is the world's highest peak?
+FACT
+</que>
+What king signed the Magna Carta?
+PERSON
+</que>
+What is Pittsburg's baseball team called?
+ORGANIZATION
+</que>
+Where is Logan Airport?
+LOCATION
+</que>
+Where are the headquarters of Eli Lilly?
+LOCATION
+</que>
+Where is the Isle of Man?
+LOCATION
+</que>
+What famous model was married to Billy Joel?
+PERSON
+</que>
+Aspartame is known by what other name?
+FACT
+</que>
+CPR is the abbreviation for what?
+FACT
+</que>
+What is the most common kind of skin cancer in the U.S.?
+FACT
+</que>
+What was the name of "The Muppets" creator?
+PERSON
+</que>
+What is the most heavily caffeinated soft drink?
+FACT
+</que>
+What city did the Flintstones live in?
+LOCATION
+</que>
+What kind of animal was Winnie the Pooh?
+FACT
+</que>
+What's the name of the Tokyo Stock Exchange?
+FACT
+</que>
+What is the name of a Greek god?
+PERSON
+</que>
+Who created the character of Scrooge?
+PERSON
+</que>
+What is Nicholas Cage's occupation?
+FACT
+</que>
+What is the zip code for Fremont, CA?
+NUMBER
+</que>
+What radio station did Paul Harvey work for?
+ORGANIZATION
+</que>
+Who wrote the song, "Silent Night"?
+PERSON
+</que>
+Who wrote the song, "Boys of Summer"?
+PERSON
+</que>
+Name an American war plane?
+FACT
+</que>
+When was the bar-code invented?
+DATE
+</que>
+What is TCI?
+FACT
+</que>
+What is the name of the art of growing miniature trees?
+FACT
+</que>
+Where is Webster University?
+LOCATION
+</que>
+Logan International serves what city?
+LOCATION
+</que>
+What is another name for nearsightedness?
+FACT
+</que>
+Where was Tesla born?
+LOCATION
+</que>
+What soft drink would provide me with the biggest intake of caffeine?
+FACT
+</que>
+What state is Niagra Falls located in?
+LOCATION
+</que>
+What is Archimedes famous for?
+FACT
+</que>
+Name a movie that the actress, Sandra Bullock, had a role in.
+FACT
+</que>
+Who created the character James Bond?
+PERSON
+</que>
+CNN is an acronym for what?
+FACT
+</que>
+What was the name of Jacques Cousteau's ship?
+FACT
+</que>
+What year did the Vietnam War end?
+DATE
+</que>
+What is the English meaning of caliente?
+FACT
+</que>
+How many copies of an album must be sold for it to be a gold album?
+NUMBER
+</que>
+How was Teddy Roosevelt related to FDR?
+FACT
+</que>
+What's the tallest building in New York City?
+FACT
+</que>
+Where is McCarren Airport located?
+LOCATION
+</que>
+Name an American made motorcycle.
+FACT
+</que>
+What year did Hitler die?
+DATE
+</que>
+What city is served by Logan International Airport?
+LOCATION
+</que>
+What is the Islamic counterpart to the Red Cross?
+ORGANIZATION
+</que>
+What is the primary language of the Philippines?
+FACT
+</que>
+What is platinum?
+FACT
+</que>
+Who is Coronado?
+FACT
+</que>
+What is a caldera?
+FACT
+</que>
+What was the name of the famous battle in 1836 between Texas and Mexico?
+FACT
+</que>
+What is the name for clouds that produce rain?
+FACT
+</que>
+What do ladybugs eat?
+FACT
+</que>
+What are John C. Calhoun and Henry Clay known as?
+FACT
+</que>
+What is California's state tree?
+FACT
+</que>
+What is leukemia?
+FACT
+</que>
+Who was Buffalo Bill?
+FACT
+</que>
+Why can't ostriches fly?
+FACT
+</que>
+What effect does a prism have on light?
+FACT
+</que>
+What is a nematode?
+FACT
+</que>
+Where does chocolate come from?
+FACT
+</que>
+What is a meerkat?
+FACT
+</que>
+At what speed does the Earth revolve around the sun?
+NUMBER
+</que>
+What is the name of the Jewish alphabet?
+FACT
+</que>
+Who was Maria Theresa?
+FACT
+</que>
+Tell me what city the Kentucky Horse Park is near?
+LOCATION
+</que>
+What is the state nickname of Mississippi?
+LOCATION
+</que>
+Who used to make cars with rotary engines?
+ORGANIZATION
+</que>
+What is the tallest mountain?
+FACT
+</que>
+What is Black Hills, South Dakota most famous for?
+FACT
+</que>
+What's another name for aspartame?
+FACT
+</que>
+What does hazmat stand for?
+FACT
+</que>
+What tourist attractions are there in Reims?
+FACT
+</que>
+Name a film in which Jude Law acted.
+FACT
+</que>
+Where are the U.S. headquarters for Procter & Gamble?
+LOCATION
+</que>
+What's the formal name for Lou Gehrig's disease?
+FACT
+</que>
+What does CNN stand for?
+FACT
+</que>
+When was CNN's first broadcast?
+FACT
+</que>
+Who owns CNN?
+FACT
+</que>
+What is the name of a Salt Lake City newspaper?
+ORGANIZATION
+</que>
+What is thalassemia?
+FACT
+</que>
+When did Princess Diana and Prince Charles get married?
+DATE
+</que>
+What soft drink contains the largest amount of caffeine?
+FACT
+</que>
+How many months does a normal human pregnancy last?
+NUMBER
+</que>
+What culture developed the idea of potlatch?
+ORGANIZATION
+</que>
+Where is Logan International located?
+LOCATION
+</que>
+Where is Basque country located?
+LOCATION
+</que>
+What state produces the best lobster to eat?
+LOCATION
+</que>
+Who was Darth Vader's son?
+PERSON
+</que>
+What instrument is Ray Charles best known for playing?
+FACT
+</que>
+What is titanium?
+FACT
+</que>
+What is "Nine Inch Nails"?
+FACT
+</que>
+Where was Poe born?
+LOCATION
+</que>
+What king was forced to agree to the Magna Carta?
+PERSON
+</que>
+What's the name of Pittsburgh's baseball team?
+ORGANIZATION
+</que>
+What is the chemical formula/name for napalm?
+FACT
+</que>
+When was the last major eruption of Mount St. Helens?
+DATE
+</que>
+What is anise?
+FACT
+</que>
+What does caliente mean (in English)?
+FACT
+</que>
+Where is McCarren Airport?
+LOCATION
+</que>
+When is Bastille Day?
+DATE
+</que>
+What is Colin Powell best known for?
+FACT
+</que>
+What is the busiest air travel season?
+FACT
+</que>
+What's the name of a golf course in Myrtle Beach?
+ORGANIZATION
+</que>
+Who was the author of the book about computer hackers called "The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage"?
+PERSON
+</que>
+What is measured in curies?
+FACT
+</que>
+Who coined the term "cyberspace" in his novel "Neuromancer"?
+PERSON
+</que>
+When did the American Civil War end?
+DATE
+</que>
+Who first broke the sound barrier?
+PERSON
+</que>
+What is the salary of a U.S. Representative?
+NUMBER
+</que>
+What are the birth dates for scorpios?
+DATE
+</que>
+What is the airport code for Los Angeles International?
+FACT
+</que>
+Who provides telephone service in Orange County, California?
+ORGANIZATION
+</que>
+Who shot Billy the Kid?
+PERSON
+</que>
+What is the name of the Lion King's son in the movie, "The Lion King"?
+PERSON
+</que>
+Where is Amsterdam?
+LOCATION
+</que>
+How many states have a "lemon law" for new automobiles?
+NUMBER
+</que>
+What was the name of the movie that starred Sharon Stone and Arnold Schwarzenegger?
+FACT
+</que>
+Where did Woodstock take place?
+LOCATION
+</que>
+What is the name of the vaccine for chicken pox?
+FACT
+</que>
+What is Betsy Ross famous for?
+FACT
+</que>
+Who wrote the book, "The Grinch Who Stole Christmas"?
+PERSON
+</que>
+Who wrote the book, "Song of Solomon"?
+PERSON
+</que>
+Who portrayed Jake in the television show, "Jake and the Fatman"?
+PERSON
+</que>
+Who portrayed Fatman in the television show, "Jake and the Fatman"?
+PERSON
+</que>
+Where is Venezuela?
+LOCATION
+</que>
+What city in Florida is Sea World in?
+LOCATION
+</que>
+What is the population of Ohio?
+NUMBER
+</que>
+What is one of the cities that the University of Minnesota is located in?
+LOCATION
+</que>
+What kind of sports team is the Buffalo Sabres?
+FACT
+</que>
+Who is the founder of the Wal-Mart stores?
+PERSON
+</que>
+What city is Massachusetts General Hospital located in?
+LOCATION
+</que>
+When did the California lottery begin?
+DATE
+</que>
+Where is Los Vegas?
+LOCATION
+</que>
+When was Beethoven born?
+DATE
+</que>
+What's the name of the tiger that advertises for Frosted Flakes cereal?
+FACT
+</que>
+Where is Tufts University?
+LOCATION
+</que>
+What movie did Madilyn Kahn star in with Gene Wilder?
+FACT
+</que>
+What cereal goes "snap, crackle, pop"?
+FACT
+</que>
+For what disease is the drug Sinemet used as a treatment?
+FACT
+</que>
+What is the zip code for Parsippany, NJ?
+NUMBER
+</que>
+When was the first Barbie produced?
+DATE
+</que>
+What does EKG stand for?
+FACT
+</que>
+What is Chiricahua the name of?
+FACT
+</que>
+Where did Wicca first develop?
+LOCATION
+</que>
+Name a symptom of mononucleosis.
+FACT
+</que>
+When was the NFL established?
+DATE
+</que>
+What are geckos?
+FACT
+</que>
+What other name were the "Little Rascals" known as?
+FACT
+</que>
+What was the name of the "Little Rascals" dog?
+FACT
+</que>
+What breed of dog was the "Little Rascals" dog?
+FACT
+</que>
+Who portrayed "Rosanne Rosanna-Dana" on the television show "Saturday Night Live"?
+PERSON
+</que>
+What was the purpose of the Manhattan project?
+FACT
+</que>
+Name a civil war battlefield.
+LOCATION
+</que>
+When was the Hoover Dam constructed?
+DATE
+</que>
+What's the most famous tourist attraction in Rome?
+FACT
+</que>
+At Christmas time, what is the traditional thing to do under the mistletoe?
+FACT
+</que>
+What is the Pennsylvania state income tax rate?
+NUMBER
+</que>
+What is the name of the company that manufactures the "American Girl" doll collection?
+ORGANIZATION
+</que>
+When is the Tulip Festival in Michigan?
+DATE
+</que>
+What Cruise Line does Kathie Lee Gifford advertise for?
+ORGANIZATION
+</que>
+Where is the Thomas Edison Museum?
+LOCATION
+</que>
+What state does MO stand for?
+LOCATION
+</que>
+Name a female figure skater.
+PERSON
+</que>
+What state is the Filenes store located in?
+LOCATION
+</que>
+What hockey team did Wayne Gretzky play for?
+ORGANIZATION
+</que>
+What hair color can I use to just cover a little gray?
+FACT
+</que>
+How long would it take for a $50 savings bond to mature?
+NUMBER
+</que>
+How many home runs did Lou Gehrig have during his career?
+NUMBER
+</que>
+How many states have a lottery?
+NUMBER
+</que>
+Can you give me the name of a clock maker in London, England?
+PERSON
+</que>
+What is the real name of the singer, Madonna?
+PERSON
+</que>
+Where did yoga originate?
+LOCATION
+</que>
+What flower did Vincent Van Gogh paint?
+FACT
+</que>
+What's the name of the song Will Smith sings about parents?
+FACT
+</que>
+What does NASA stand for?
+FACT
+</que>
+When did World War I start?
+DATE
+</que>
+Who owns the St. Louis Rams?
+PERSON
+</que>
+Where could I go to take a ride on a steam locomotive?
+LOCATION
+</que>
+How many highway miles to the gallon can you get with the Ford Fiesta?
+NUMBER
+</que>
+What is the mascot for Notre Dame University?
+FACT
+</que>
+When did the neanderthal man live?
+DATE
+</que>
+Who manufactures the software, "PhotoShop"?
+ORGANIZATION
+</que>
+What state does Martha Stewart live in?
+LOCATION
+</que>
+What are Cushman and Wakefield known for?
+FACT
+</que>
+When was Nostradamus born?
+DATE
+</que>
+Who created the comic strip, "Garfield"?
+PERSON
+</que>
+Who wrote the book, "Huckleberry Finn"?
+PERSON
+</que>
+What day is known as the "national day of prayer"?
+DATE
+</que>
+What are chloroplasts?
+FACT
+</que>
+Name an art gallery in New York.
+ORGANIZATION
+</que>
+What does SIDS stand for?
+FACT
+</que>
+What city is 94.5 KDGE Radio located in?
+LOCATION
+</que>
+How tall is kilamanjaro?
+NUMBER
+</que>
+Who won the nobel prize in literature in 1988?
+PERSON
+</que>
+What's the name of the Tampa newspaper?
+ORGANIZATION
+</que>
+What is cribbage?
+FACT
+</que>
+Italy is the largest producer of what?
+FACT
+</que>
+What wrestling star became "The Incredible Hulk"?
+PERSON
+</que>
+Who wrote "The Pit and the Pendulum"?
+PERSON
+</que>
+What is the normal resting heart rate of a healthy adult?
+NUMBER
+</que>
+Who's the lead singer of the Led Zeppelin band?
+PERSON
+</que>
+Who is Secretary-General of the United Nations?
+PERSON
+</que>
+Who played the teacher in Dead Poet's Society?
+PERSON
+</que>
+What's the name of a hotel in Indianapolis?
+ORGANIZATION
+</que>
+Who started the Dominos Pizza chain?
+PERSON
+</que>
+What is the hair style called that new military recruits receive?
+FACT
+</que>
+In what country is a stuck-out tongue a friendly greeting?
+LOCATION
+</que>
+Where is Kings Canyon?
+LOCATION
+</que>
+How big is the Electoral College?
+NUMBER
+</que>
+Where does Mother Angelica live?
+LOCATION
+</que>
+How many people watch network television?
+NUMBER
+</que>
+What's the population of Mississippi?
+NUMBER
+</que>
+What are the names of Jacques Cousteau's two sons?
+PERSON
+</que>
+What is Java?
+FACT
+</que>
+What does Final Four refer to in the sports world?
+FACT
+</que>
+What does Knight Ridder publish?
+FACT
+</que>
+What task does the Bouvier breed of dog perform?
+FACT
+</que>
+What sport do the Cleaveland Cavaliers play?
+FACT
+</que>
+What year was the Avery Dennison company founded?
+DATE
+</que>
+Name a ballet company Mikhail Baryshnikov has danced for?
+ORGANIZATION
+</que>
+What was the name of the television show, staring Karl Malden, that had San Francisco in the title?
+FACT
+</que>
+Who was the founding member of the Pink Floyd band?
+PERSON
+</que>
+What actor first portrayed James Bond?
+PERSON
+</que>
+What type of horses appear on the Budweiser commercials?
+FACT
+</que>
+What do river otters eat?
+FACT
+</que>
+When did the art of quilting begin?
+DATE
+</que>
+Where is the Smithsonian Institute located?
+LOCATION
+</que>
+What country are Godiva chocolates from?
+LOCATION
+</que>
+How many islands does Fiji have?
+NUMBER
+</que>
+What year was Desmond Mpilo Tutu awarded the Nobel Peace Prize?
+DATE
+</que>
+Who was the oldest U.S. president?
+PERSON
+</que>
+Who was the tallest U.S. president?
+PERSON
+</que>
+Where is Santa Lucia?
+LOCATION
+</que>
+Which U.S. President is buried in Washington, D.C.?
+PERSON
+</que>
+What year was Janet Jackson's first album released?
+DATE
+</que>

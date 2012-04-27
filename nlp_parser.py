@@ -1,9 +1,147 @@
 '''
 Parses the question and answer data
 '''
+import random
 import re
+import string
+import sys
 
 
+def write_manual_tags(tagged_pairs, filename):
+    ''' Writes the tagged pairs to filename.
+    tagged_pairs is a (question, [Entity_list]) tuple
+    and we write to file in the form
+    question
+    Entity
+    Entity
+    </que>
+    question
+    ...
+    '''
+    f = open(filename, 'w')
+    
+    for (question, entities) in tagged_pairs:
+        f.write(question + "\n")
+        for entity in entities:
+            f.write(entity + "\n")
+            
+        f.write("</que>\n")
+
+def parse_documents(question_id):
+    '''
+    Returns a list of the text from the documents
+    relevant to question_id
+    '''
+    documents = []
+    
+    f = open('docs/top_docs.' + str(question_id), 'rb')
+    doc = ""
+    in_doc = False
+    for line in f:
+        line = line.strip()
+        if "<TEXT>" in line:
+            line = string.replace(line, "<TEXT>", "")
+            doc+= line + " "
+            in_doc = True
+        elif "</TEXT>" in line:
+            line = string.replace(line, "</TEXT>", "")
+            doc+= line
+            documents.append(doc.strip())
+            doc = ""
+            in_doc = False
+        elif in_doc:
+            doc+= line + " "
+            
+            
+    
+    return documents
+            
+def read_manual_tags(filename):
+    
+    f = open(filename, 'r')
+    
+    tagged_pairs = []
+    tagged_pair_lines = []
+    
+    for line in f:
+        line = line.strip()
+        if line == "</que>":
+            tagged_pairs.append((tagged_pair_lines[0], tagged_pair_lines[1:]))
+            tagged_pair_lines = []
+        else:
+            tagged_pair_lines.append(line)
+    
+    return tagged_pairs
+
+def check_validity(tagged_entries):
+    '''
+    Goes through the tagged entries and maps 
+    entity -> How many questions are tagged with that entity
+    Then prints out all the entities with less than 5
+    tags. Chances are, these are mistakes in entry
+    '''
+    
+    freq_map = {}
+    for ( _ , entities) in tagged_entries:
+        for entity in entities:
+            if entity in freq_map:
+                freq_map[entity]+= 1
+            else:
+                freq_map[entity] = 1
+    
+    for (entity, freq) in freq_map.iteritems():
+        if freq < 5:
+            print entity, " : "
+        
+def manually_tag(all_questions_file, manually_tagged_filename):
+    all_questions = parse_questions(all_questions_file)
+    already_tagged = read_manual_tags(manually_tagged_filename)
+    
+    already_tagged_questions = [question for (question, _) in already_tagged]
+    
+    all_questions = [question for (_, question) in all_questions]
+    
+    not_tagged = [question for question in all_questions if question not in already_tagged_questions]
+    
+    print 'You will be presented with a series of questions. For each question, enter the entity' + \
+     'that the answer should be. Enter quit if you want to quit and skip to skip a question'
+     
+    count = 0
+    for question in not_tagged:
+        print question
+        user_input = sys.stdin.readline().strip()
+        if len(user_input) == 1:
+            user_input = user_input.lower()
+            if user_input == 'o':
+                user_input = "ORGANIZATION"
+            elif user_input == 'f':
+                user_input = "FACT"
+            elif user_input == 'l':
+                user_input = "LOCATION"
+            elif user_input == "n":
+                user_input = "NUMBER"
+            elif user_input == "p":
+                user_input = "PERSON"
+            elif user_input == 'd':
+                user_input = "DATE"
+        if user_input == 'quit':
+            break
+        elif user_input == 'skip':
+            continue
+        
+        count += 1
+        entities = [entity.strip().upper() for entity in user_input.split(',')]
+        already_tagged.append((question, entities))
+    
+    print "\n\nTagged %i questions" % count
+    print "Total questions tagged: %i" % len(already_tagged)
+    
+    check_validity(already_tagged)
+    
+    write_manual_tags(already_tagged, manually_tagged_filename)
+        
+        
+    
 def parse_answers(file_name):
     '''
     Parses the answer file. Returns a list of answers. Each answer is of the form
@@ -78,5 +216,12 @@ def parse_questions(file_name):
     return questions
     
 
+if __name__ == "__main__":
+    if len(sys.argv) > 1 and sys.argv[1] == "-check":
+        tagged_entries = read_manual_tags("manually_tagged_questions.txt")
+        check_validity(tagged_entries)
+    else:
+        manually_tag("trec_9_questions.txt", "manually_tagged_questions.txt")
+    
 #questions = parse_questions("questions.txt")
 
