@@ -1,10 +1,14 @@
 '''
 Parses the question and answer data
 '''
+from collections import defaultdict
+import heapq
+import nltk
 import random
 import re
 import string
 import sys
+import cPickle as pickle
 
 
 def write_manual_tags(tagged_pairs, filename):
@@ -183,6 +187,29 @@ def parse_answers(file_name):
             
     return answers
 
+def generate_stop_words():
+    questions = parse_questions('trec_9_questions.txt')
+    
+    freq_map = defaultdict(lambda : 0)
+    for ( _, question) in questions:
+        tokens = nltk.word_tokenize(question)
+        for token in tokens:
+            freq_map[token] += 1
+        
+    heap = []
+    
+    for (token, freq) in freq_map.iteritems():
+        heapq.heappush(heap, (-1 * freq, token))
+    
+    stop_words = []
+    for _ in xrange(25):
+        (freq, stop_word) = heapq.heappop(heap)
+        print '%s \t %i' % (stop_word.lower() , freq * -1)
+        stop_words.append(stop_word.lower())
+    
+    pickle.dump(stop_words, open('stop_words.p', 'wb'))
+        
+    
 def parse_questions(file_name):
     '''
     Parses the question file. Returns a list of questions. Each question is of the form
@@ -216,12 +243,21 @@ def parse_questions(file_name):
     return questions
     
 
-if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "-check":
-        tagged_entries = read_manual_tags("manually_tagged_questions.txt")
-        check_validity(tagged_entries)
+
+def main():
+    if len(sys.argv) > 1:
+        if sys.argv[1] == "-check":
+            tagged_entries = read_manual_tags("manually_tagged_questions.txt")
+            check_validity(tagged_entries)
+            return
+        elif sys.argv[1] == '-stop_words':
+            generate_stop_words()
+            return
+    
     else:
         manually_tag("trec_9_questions.txt", "manually_tagged_questions.txt")
-    
+
+if __name__ == "__main__":
+    main()
 #questions = parse_questions("questions.txt")
 
